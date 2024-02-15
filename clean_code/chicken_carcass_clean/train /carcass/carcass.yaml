@@ -1,0 +1,12 @@
+path: /home/tqsang/JSON2YOLO/carcass_brio_YOLO_det_only/datasets
+train: train/images 
+val: val/images 
+test: test/images 
+
+# nc: 2
+
+# # Classes
+# names: ['normal','defect']
+
+names:
+  0: chicken

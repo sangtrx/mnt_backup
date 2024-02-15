@@ -1,0 +1,7 @@
+train: /mnt/tqsang/hand_dataset_YOLO/datasets_hand_arm/train/images 
+val: /mnt/tqsang/hand_dataset_YOLO/datasets_hand_arm/val/images 
+
+nc: 5
+
+# Classes
+names: ['hand','human arm','cloth1','cloth2','cloth3']

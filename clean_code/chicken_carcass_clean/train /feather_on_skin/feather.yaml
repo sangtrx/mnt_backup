@@ -1,0 +1,6 @@
+path: /home/tqsang/JSON2YOLO/feather_on_skin_YOLO_det/datasets
+train: train/images 
+val: val/images 
+
+names:
+  0: feather_on_skin

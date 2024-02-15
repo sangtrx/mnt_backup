@@ -1,0 +1,8 @@
+train: train/images 
+val: val/images 
+test: test/images 
+
+nc: 9
+
+# Classes
+names: ['wing','breast','tender','carcass','butt','thigh','drumstick','skin','fat']
